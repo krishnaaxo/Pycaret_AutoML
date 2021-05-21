@@ -5,4 +5,4 @@ PyCaret is an open source, low-code machine learning library in Python that allo
 # Installing AutoVIML
 !pip install pycaret
 # Anomoly Detection
-
+![](images/Capture.JPG)
